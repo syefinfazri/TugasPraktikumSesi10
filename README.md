@@ -8,6 +8,8 @@ Tugas Praktikum Sesi 10 (Basic Sort)
 - Dosen Pengampu: Shinta Ayuningtias, S.Kom., M.Kom 
 # Penjelasan
 
+- Penjelasan Aktivtas 1: File Aktivitas 1.png merupakan file yang berisikan tentang analisis setiap perubahan array pada tiap pertukaran (swap) menggunakan Teknik Bubble Sort
+  
 - Penjelasan Aktivitas 2 : File BubbleSort.java merupakan aktivitas 2 dan outputnya yaitu (BubbleSort.png)
 dan file BubbleSortDescending.java merupakan hasil yang sudah dimodifikasi dari file Bubblesort.java dengan output hasil (BubbleSortDescending.png)
 
