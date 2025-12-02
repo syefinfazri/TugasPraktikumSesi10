@@ -1,6 +1,4 @@
-# TugasPraktikumSesi10
-Tugas Praktikum Sesi 10 (Basic Sort) 
-
+# Tugas Praktikum Sesi 10 (Basic Sort) 
 - Nama: Syefin Fazri Nugraha
 - NIM: 20210040097
 - Kelas: TI25F
